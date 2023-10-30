@@ -1,0 +1,14 @@
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\Controle.exe
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\Controle.deps.json
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\Controle.runtimeconfig.json
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\Controle.dll
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\ref\Controle.dll
+C:\Users\36649863858\source\repos\Controle\Controle\bin\Debug\net6.0\Controle.pdb
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.AssemblyInfoInputs.cache
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.AssemblyInfo.cs
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.csproj.CoreCompileInputs.cache
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.dll
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\ref\Controle.dll
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.pdb
+C:\Users\36649863858\source\repos\Controle\Controle\obj\Debug\net6.0\Controle.genruntimeconfig.cache

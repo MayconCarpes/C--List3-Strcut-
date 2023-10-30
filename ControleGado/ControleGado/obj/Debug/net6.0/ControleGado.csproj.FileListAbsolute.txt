@@ -1,0 +1,14 @@
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ControleGado.exe
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ControleGado.deps.json
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ControleGado.runtimeconfig.json
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ControleGado.dll
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ref\ControleGado.dll
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\bin\Debug\net6.0\ControleGado.pdb
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.AssemblyInfoInputs.cache
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.AssemblyInfo.cs
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.csproj.CoreCompileInputs.cache
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.dll
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ref\ControleGado.dll
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.pdb
+C:\Users\36649863858\source\repos\ControleGado\ControleGado\obj\Debug\net6.0\ControleGado.genruntimeconfig.cache
